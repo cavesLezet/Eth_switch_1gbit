@@ -1,0 +1,17 @@
+Added Component: Designator=XS1(JK00136NL)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/746/DOC044746386.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=195579"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Pulse Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=195579"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "JK0-0136NL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "JK0-0136NL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/JK0-0136NL/Pulse%20Electronics%20Network/view-part/195579/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=dc-dc Member=Component C3 Capacitor
+Add Class Member: Failed to add class member : Component DD1 RTL8367RB-VB
+Added Member To Class: ClassName=dc-dc Member=Component R4 Resistor
+Added Member To Class: ClassName=ETH_SWITCH Member=Component XS1 JK0-0136NL

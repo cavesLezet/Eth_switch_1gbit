@@ -1,0 +1,58 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=DA? NewDesignator=DA1
+Change Component Designator: OldDesignator=DA? NewDesignator=DA2
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=L? NewDesignator=L2
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=XP? NewDesignator=XP1
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC3_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC3_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=DA2-6
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=DA2-5
+Added Pin To Net: NetName=NetC4_2 Pin=L2-1
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=DA2-1
+Added Pin To Net: NetName=NetC5_1 Pin=R3-1
+Added Pin To Net: NetName=NetC5_1 Pin=R4-2
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=DA1-1
+Added Pin To Net: NetName=NetC6_1 Pin=R1-1
+Added Pin To Net: NetName=NetC6_1 Pin=R2-2
+Added Net: Name=NetC6_1
+Added Member To Class: ClassName=dc-dc Member=Component C1 Capacitor
+Added Member To Class: ClassName=dc-dc Member=Component C2 Capacitor
+Added Member To Class: ClassName=dc-dc Member=Component C4 Capacitor
+Added Member To Class: ClassName=dc-dc Member=Component C5 Capacitor
+Added Member To Class: ClassName=dc-dc Member=Component C6 Capacitor
+Added Member To Class: ClassName=dc-dc Member=Component C7 Capacitor
+Added Member To Class: ClassName=dc-dc Member=Component C8 Capacitor
+Added Member To Class: ClassName=dc-dc Member=Component C9 Capacitor
+Added Member To Class: ClassName=dc-dc Member=Component C10 Capacitor
+Added Member To Class: ClassName=dc-dc Member=Component C11 Capacitor
+Added Member To Class: ClassName=dc-dc Member=Component C12 Capacitor
+Added Member To Class: ClassName=dc-dc Member=Component DA1 AP63200
+Add Class Member: Failed to add class member : Component DD1 RTL8367RB-VB
+Added Member To Class: ClassName=dc-dc Member=Component L1 CDRH6D12NP-2R2NC
+Added Member To Class: ClassName=dc-dc Member=Component R1 Resistor
+Added Member To Class: ClassName=dc-dc Member=Component R2 Resistor
+Added Member To Class: ClassName=dc-dc Member=Component R3 Resistor
+Add Class Member: Failed to add class member : Component XS1 JK0-0136NL
