@@ -128,8 +128,7 @@ UniqueId=951a6c06-cfbe-43b2-a0f9-02a6a7bce763
 Description=01
 AllowFabrication=0
 ParameterCount=0
-VariationCount=1
-Variation1=Designator=R3|UniqueId=\PJYULRXL|Kind=1|AlternatePart=
+VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
