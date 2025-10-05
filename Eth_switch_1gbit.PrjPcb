@@ -131,6 +131,10 @@ ParameterCount=0
 VariationCount=0
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Eth_switch_1gbit\Design Rule Check - eth_witch.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=CheckedBy
 Value=

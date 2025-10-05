@@ -1,5 +1,5 @@
 # Eth_switch_1gbit
-на что смотрел:
+на что смотрел:<br>
 https://en.eeworld.com.cn/Reference_Designs/detail/76488<br>
 https://lceda.cn/editor#id=103e28de87c54869b766a7df2fd9f07f<br>
 https://github.com/Starrynightzyq/GE-Switch<br>
