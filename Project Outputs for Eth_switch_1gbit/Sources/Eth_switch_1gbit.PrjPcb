@@ -141,7 +141,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PMZYWLLB
 
 [Document6]
-DocumentPath=eth_witch_fabr.PCBDwf
+DocumentPath=Eth_switch_1gbit.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -158,7 +158,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=Eth_switch_1gbit.BomDoc
+DocumentPath=eth_witch_fabr.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -187,14 +187,6 @@ DocumentPath=Project Outputs for Eth_switch_1gbit\Design Rule Check - eth_witch.
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Eth_switch_1gbit\Eth_switch_1gbit.xls
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Eth_switch_1gbit\Документация\ГИДР.123456.012-01.01 ПЭ3.xls
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=Project Outputs for Eth_switch_1gbit\Документация\ГИДР.123456.012-01.01 ПЭ3.xlsx
 DItemRevisionGUID=
 
