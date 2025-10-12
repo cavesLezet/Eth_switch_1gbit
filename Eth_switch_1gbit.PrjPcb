@@ -141,7 +141,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PMZYWLLB
 
 [Document6]
-DocumentPath=..\Xenon_flash\eth_witch_fabr.PCBDwf
+DocumentPath=Eth_switch_1gbit.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -155,10 +155,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LRSYCBHC
+DocumentUniqueId=
 
 [Document7]
-DocumentPath=Eth_switch_1gbit.BomDoc
+DocumentPath=eth_witch_fabr.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
