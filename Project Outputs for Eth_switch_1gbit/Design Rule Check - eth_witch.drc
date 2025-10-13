@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\s.karmanov\Documents\Altium\Eth_switch_1gbit\eth_witch.PcbDoc
-Date     : 12.10.2025
-Time     : 21:56:15
+Date     : 13.10.2025
+Time     : 22:34:34
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
 Rule Violations :0
@@ -51,4 +51,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
