@@ -15,13 +15,13 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=HydroJob.OutJob
 Description=
 TargetOutputMedium=BOM
 VariantName=01
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=\\MSK-IT-PCUT-01\1440_Print
+TargetPrinter=Canon G3010 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -94,7 +94,7 @@ PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType4=BOM_PartType
 OutputName4=Bill of Materials
 OutputCategory4=Report
-OutputDocumentPath4=[ActiveBOM Document]
+OutputDocumentPath4=Eth_switch_1gbit.BomDoc
 OutputVariantName4=
 OutputEnabled4=1
 OutputEnabled4_OutputMedium1=0
