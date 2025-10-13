@@ -15,13 +15,13 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=HydroJob.OutJob
+Name=
 Description=
 TargetOutputMedium=BOM
 VariantName=01
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Canon G3010 series
+TargetPrinter=\\MSK-IT-PCUT-01\1440_Print
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -358,7 +358,7 @@ OutputPathOutputer7=[Output Custom]
 OutputPathOutputerPrefix7=
 OutputPathOutputerValue7=Документация
 OutputFileName7=
-OutputFileNameMulti7==Decimal_Number_Shematic+'-'+Version+'.'+VariantName+' ПЭ3'
+OutputFileNameMulti7==Decimal_Number_Shematic+'-'+Version+'.'+VariantName
 UseOutputNameForMulti7=0
 OutputFileNameSpecial7=
 OpenOutput7=1
