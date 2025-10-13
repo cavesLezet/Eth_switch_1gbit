@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: eth_witch.PcbDoc   13.10.2025  0:46:20
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : eth_witch.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             450       PTH        1242.47mm (48.92inch)
+T2      0.4mm (16mil)                                             Round             18        PTH        30.91mm (1.22inch)
+T3      0.89mm (35mil)                                            Round             48        PTH        168.64mm (6.64inch)
+T4      1mm (39mil)                                               Round             2         PTH        3.00mm (0.12inch)
+T5      1.03mm (41mil)                                            Round             16        PTH        88.80mm (3.50inch)
+T6      1.57mm (62mil)                                            Round             8         PTH        122.07mm (4.81inch)
+T7      3mm (118mil)                                              Round             4         NPTH       201.15mm (7.92inch)
+T8      3.2mm (126mil)                                            Round             8         NPTH       108.86mm (4.29inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              554
+
+Total Processing Time (hh:mm:ss) : 00:00:00
