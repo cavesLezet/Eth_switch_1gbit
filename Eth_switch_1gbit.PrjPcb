@@ -90,23 +90,6 @@ GenerateClassCluster=0
 DocumentUniqueId=XXUZEFOG
 
 [Document3]
-DocumentPath=dc-dc.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FWLVGKII
-
-[Document4]
 DocumentPath=eth_witch.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,7 +106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EMHGFWHH
 
-[Document5]
+[Document4]
 DocumentPath=eth_witch_asm.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PMZYWLLB
 
-[Document6]
+[Document5]
 DocumentPath=eth_witch_fabr.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LRSYCBHC
 
-[Document7]
+[Document6]
 DocumentPath=Eth_switch_1gbit.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=hueta.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,6 +173,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CSLRLZXM
+
+[Document8]
+DocumentPath=Eth_switch_1gbit.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document9]
+DocumentPath=Eth_switch_1gbit.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [ProjectVariant1]
 UniqueId=951a6c06-cfbe-43b2-a0f9-02a6a7bce763
@@ -216,40 +233,40 @@ DocumentPath=Project Outputs for Eth_switch_1gbit\Документация\ГИ�
 DItemRevisionGUID=
 
 [Parameter1]
-Name=CheckedBy
+Name=Version
 Value=
 
 [Parameter2]
-Name=Decimal_Number_PCB
-Value=ГИДР.123456.013
+Name=Title2
+Value=коммутатор
 
 [Parameter3]
-Name=Decimal_Number_Shematic
-Value=ГИДР.123456.012
+Name=Title1
+Value=Гигабитный
 
 [Parameter4]
-Name=DrawnBy
-Value=Карманов С.
+Name=Title
+Value=Гигабитный коммутатор
 
 [Parameter5]
 Name=Release_Date
 Value=27.09.25
 
 [Parameter6]
-Name=Title
-Value=Гигабитный коммутатор
+Name=DrawnBy
+Value=Карманов С.
 
 [Parameter7]
-Name=Title1
-Value=Гигабитный
+Name=Decimal_Number_Shematic
+Value=РТ2.11.03.03.25.07.01.15.001
 
 [Parameter8]
-Name=Title2
-Value=коммутатор
+Name=Decimal_Number_PCB
+Value=РТ2.11.03.03.25.07.01.15.002
 
 [Parameter9]
-Name=Version
-Value=01
+Name=CheckedBy
+Value=Курносенко А.
 
 [Configuration1]
 Name=Sources
@@ -295,6 +312,45 @@ DocumentReferenceClass1=DocumentReference
 OutputJobFileName1=HydroJob.OutJob
 ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
 ConfigurationType=Assembly
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=0
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=0
+TemplateFilename=C:\Users\s.karmanov\Documents\Altium\Hydrolib\Templates\BOM ЕСКД.xls
+TemplateStoreRelative=0
+PCB_PrintColor=1
+SCH_PrintColor=2
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+Wir_PrintColor=0
+Ldr_PrintColor=0
+Esd_PrintColor=0
+SCH_ExpandLogicalToPhysical=-1
+SCH_VariantName=01
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=0
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -406,16 +462,6 @@ OutputName21=Mixed Sim Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
-OutputType22=SIMetrixNetlist
-OutputName22=SIMetrix
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=SIMPLISNetlist
-OutputName23=SIMPLIS
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -427,16 +473,6 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -691,11 +727,6 @@ OutputName9=Report Single Pin Nets
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
-OutputType10=GOSTBOM
-OutputName10=GOST BOM
-OutputDocumentPath10=
-OutputVariantName10=[No Variations]
-OutputDefault10=0
 
 [OutputGroup7]
 Name=Other Outputs

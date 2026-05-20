@@ -7,4 +7,5 @@ https://static.chipdip.ru/lib/518/DOC041518607.pdf<br>
 https://oshwlab.com/hawaii0707/rtl8367rb-vb-cg<br>
 
 инфа про светодиоды<br>
-<img width="1989" height="420" alt="leds" src="leds.png" />
+<img width="1989" height="420" alt="leds" src="leds.png" /><br>
+[коммит с релизной докой](https://github.com/cavesLezet/Eth_switch_1gbit/commit/48998cd221b385a8897a50ce54fa7af490ef88a7)
